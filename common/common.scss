@@ -2,8 +2,8 @@
    VARIABLES: choose the colors of your banner
 -------------------------------------------------*/
 
-$main-color: #5270FE;
-$background-color: #BFD7FF;
+$main-color: #00A4B9;
+$background-color: #071019;
 
 /*-------------------------------------------------
    EXPAND-COLLAPSE BANNER
@@ -80,6 +80,8 @@ $background-color: #BFD7FF;
 
 .banner-box .single-box {
     padding-bottom: 20px;
+    margin-left: 15em;
+    margin-right: 15em;
     .x-icon {
         font-size: 70px;
     }
