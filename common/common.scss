@@ -87,6 +87,13 @@ $background-color: #071019;
     width: 54%
 }
 
+@media screen and (max-width: 1270px) {
+      .description p {
+         width: 100%;
+   }
+}
+   
+
 .banner-box .single-box {
     padding-bottom: 20px;
     .x-icon {
