@@ -43,6 +43,13 @@ $background-color: #071019;
     }
 }
 
+.navigation-categories .banner-box {
+    display: block;
+}
+.banner-box {
+    display: none;
+}
+
 .banner-box {
     margin-bottom: 20px;
     background-image: url($header_bricks);
