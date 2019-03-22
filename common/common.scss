@@ -4,6 +4,7 @@
 
 $main-color: #00A4B9;
 $background-color: #071019;
+$bold-color: #FFB034;
 
 /*-------------------------------------------------
    EXPAND-COLLAPSE BANNER
@@ -72,9 +73,10 @@ $background-color: #071019;
     padding-right: 15px;
     padding-top: 15px;
     text-align: center;
-    color: #FFB034;
+    color: $bold-color;
    font-size: 2em;
    text-shadow: 0 0 1em black;
+   cursor:default;
 }
 
 .navigation-categories #x-title-home {
